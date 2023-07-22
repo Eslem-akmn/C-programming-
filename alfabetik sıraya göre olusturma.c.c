@@ -1,7 +1,7 @@
-/*Dışarıdan aldığı isimleri alfabetik sıra ile
-listeleyen, listeye yeni düğüm ekleyen, belirtilen
-düğümü silen ve düğümdeki en uzun ismi bulan tek
-bağlı liste uygulaması.*/
+/*Disaridan aldigi isimleri alfabetik sira ile
+listeleyen, listeye yeni dÃ¼gÃ¼m ekleyen, belirtilen
+dÃ¼gÃ¼mÃ¼ silen ve dÃ¼gÃ¼mdeki en uzun ismi bulan tek
+bagli liste uygulamasi.*/
 
 #include <stdio.h>
 #include <stdlib.h>
